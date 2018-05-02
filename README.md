@@ -1,6 +1,5 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+# UIImage to CVPixelBuffer Conversion for CoreML in iOS
+
+This playground shows you  to convert UIImage to PixelBuffer which can be passed as an input to the model for prediction.
+
+### Feel free to contact me!
